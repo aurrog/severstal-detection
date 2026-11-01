@@ -1,1 +1,10 @@
-.venv
+# Python environment
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Kaggle dataset
+/data/
+
+# macOS
+.DS_Store
