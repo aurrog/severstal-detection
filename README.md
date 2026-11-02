@@ -11,14 +11,14 @@ Before starting, make sure you have installed:
 
 ## Getting started
 
-1. Clone the repository
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/aurrog/severstal-detection.git
 cd severstal-detection
 ```
 
-2. Backend setup
+### 2. Backend setup
 
 Install Python dependencies
 
@@ -45,3 +45,6 @@ The backend will be avialable at:
 - Swagger UI: http://localhost:8000/docs
 
 
+### 3. Frontend setup
+
+Frontend is not avialable now
