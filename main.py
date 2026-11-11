@@ -19,7 +19,8 @@ app.add_middleware(
 USERS_DB = {
     "worker1": "pass123",
     "engineer": "steel2026",
-    "admin": "adminroot"
+    "admin": "adminroot",
+    "pichuga": "luchshiy"
 }
 
 class LoginRequest(BaseModel):
